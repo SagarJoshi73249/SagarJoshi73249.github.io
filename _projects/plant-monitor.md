@@ -2,7 +2,7 @@
 title: "Smart Plant Health Monitor"
 description: "PLant monitoring system integrated with ChatGPT"
 tags: ["Engineering", "Mechatronics"]
-image: "/images/plant-monitor.jpg"
+image: "/images/plant_monitor.jpg"
 permalink: /projects/plant-monitor/
 ---
 ## DJS Racing
