@@ -2,7 +2,7 @@
 title: "Adaptive Headlight System Based on Audi Matrix LED"
 description: ""
 tags: ["Engineering", "Mechatronics"]
-image: "/images/plant_monitor.jpg"
+image: "/images/adaptive-headlight.png"
 permalink: /projects/adaptive-headlights/
 ---
 
