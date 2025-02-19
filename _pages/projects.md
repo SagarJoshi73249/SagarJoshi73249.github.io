@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-##
 Explore my research and development work across various domains.
 
 <div class="card-container">
