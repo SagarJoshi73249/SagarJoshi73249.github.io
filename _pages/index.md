@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sagar Joshi"
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
