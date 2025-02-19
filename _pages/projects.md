@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## **Projects**
+##
 Explore my research and development work across various domains.
 
 <div class="card-container">
