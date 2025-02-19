@@ -229,15 +229,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-defaults:
-  # Homepage (index.md should act as About Me)
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      permalink: "/"
   # _posts
   - scope:
       path: ""
