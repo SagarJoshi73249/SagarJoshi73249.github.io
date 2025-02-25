@@ -29,7 +29,7 @@ Explore my professional journey and research contributions in robotics and mecha
         </div>
     </div>
     
-    <div class="card">
+<div class="card">
         <div class="card-image">
             <img src="/assets/images/zhao-research.jpg" alt="Zhao Research Group">
         </div>
@@ -50,7 +50,7 @@ Explore my professional journey and research contributions in robotics and mecha
         </div>
     </div>
     
-    <div class="card">
+<div class="card">
         <div class="card-image">
             <img src="/assets/images/cosmos-cable.jpg" alt="Cosmos Cable Glands">
         </div>
@@ -72,7 +72,7 @@ Explore my professional journey and research contributions in robotics and mecha
         </div>
     </div>
     
-    <div class="card">
+<div class="card">
         <div class="card-image">
             <img src="/assets/images/djs-racing.jpg" alt="DJS Racing">
         </div>
