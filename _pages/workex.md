@@ -1,98 +1,30 @@
 ---
 layout: archive
 title: "Work Experience"
-permalink: /work-experience/
+permalink: /experience/
 author_profile: true
 ---
 Explore my professional journey and research contributions in robotics and mechanical engineering.
 
 <div class="card-container">
-    <div class="card">
+    {% for experience in site.experience %}
+    <div class="card" onclick="location.href='{{ experience.url | relative_url }}';">
         <div class="card-image">
-            <img src="/assets/images/rros-lab.jpg" alt="RROS Lab">
+            <img src="{{ experience.image | relative_url }}" alt="{{ experience.title }} Image">
         </div>
         <div class="card-content">
-            <h3 class="card-title">Research Assistant</h3>
-            <p class="position-details">Realization of RObotic Systems Lab (RROS) | May 2024 – Present | Los Angeles, CA</p>
-            <p class="card-description">
-            • Engineered a system for dual-arm coordination on ABB IRB120 and KUKA iiwa 14, integrating Nvidia cuMotion library and OMPL for high-efficiency motion planning in battery disassembly workflows<br>
-            • Incorporated multi-view perception using ROS2 and RealSense data streams for 6D pose capture<br>
-            • Operationalized diffusion-model-based action prediction for handling uncertain object geometry<br>
-            • Developed real-time deployment workflow with data-driven trajectories
-            </p>
+            <h3 class="card-title">{{ experience.title }}</h3>
+            <p class="position-details">{{ experience.company }} | {{ experience.duration }} | {{ experience.location }}</p>
+            <p class="card-description">{{ experience.description }}</p>
             <div class="card-tags">
-                <span class="card-tag">Robotics</span>
-                <span class="card-tag">ROS2</span>
-                <span class="card-tag">NVIDIA cuMotion</span>
-                <span class="card-tag">Machine Learning</span>
+                {% for tag in experience.tags %}
+                <span class="card-tag">{{ tag }}</span>
+                {% endfor %}
             </div>
+            <a href="{{ experience.url | relative_url }}" class="experience-link">View details →</a>
         </div>
     </div>
-    
-<div class="card">
-        <div class="card-image">
-            <img src="/assets/images/zhao-research.jpg" alt="Zhao Research Group">
-        </div>
-        <div class="card-content">
-            <h3 class="card-title">Research Assistant</h3>
-            <p class="position-details">Zhao Research Group | September 2023 – January 2024 | Los Angeles, CA</p>
-            <p class="card-description">
-            • Engineered a soft stretchable EMG sensor with a micro-needle array in a serpentine pattern for improved muscle readings<br>
-            • Optimized design for UV resin 3D printing<br>
-            • Enhanced adhesion while maintaining flexibility in the sensor design
-            </p>
-            <div class="card-tags">
-                <span class="card-tag">Biomedical</span>
-                <span class="card-tag">Sensors</span>
-                <span class="card-tag">3D Printing</span>
-                <span class="card-tag">Materials</span>
-            </div>
-        </div>
-    </div>
-    
-<div class="card">
-        <div class="card-image">
-            <img src="/assets/images/cosmos-cable.jpg" alt="Cosmos Cable Glands">
-        </div>
-        <div class="card-content">
-            <h3 class="card-title">Junior Engineer Intern</h3>
-            <p class="position-details">Cosmos Cable Glands | June 2021 – August 2021 | Mumbai, India</p>
-            <p class="card-description">
-            • Facilitated design, manufacturing, and testing of various types of cable glands, resulting in production of 3 distinct product models<br>
-            • Applied GD&T to meet predefined manufacturing standards<br>
-            • Conducted ISO standard tests, attaining an 18% increase in structural durability<br>
-            • Researched optimal material specifications for client-driven cost, properties, and performance criteria
-            </p>
-            <div class="card-tags">
-                <span class="card-tag">Manufacturing</span>
-                <span class="card-tag">Product Design</span>
-                <span class="card-tag">Testing</span>
-                <span class="card-tag">Standards</span>
-            </div>
-        </div>
-    </div>
-    
-<div class="card">
-        <div class="card-image">
-            <img src="/assets/images/djs-racing.jpg" alt="DJS Racing">
-        </div>
-        <div class="card-content">
-            <h3 class="card-title">Senior Brakes Engineer</h3>
-            <p class="position-details">DJS Racing | University Project</p>
-            <p class="card-description">
-            • Led and mentored a 12-member team to a national competition<br>
-            • Applied DFMA principles to design and manufacture custom calipers, rotors, and pedal box assemblies<br>
-            • Achieved 22% weight reduction, improved ergonomics, and 27% cost reduction<br>
-            • Conducted research on controlled braking for a Driverless Formula Student car
-            </p>
-            <div class="card-tags">
-                <span class="card-tag">Automotive</span>
-                <span class="card-tag">Team Leadership</span>
-                <span class="card-tag">DFMA</span>
-                <span class="card-tag">Mechanical Design</span>
-            </div>
-        </div>
-    </div>
+    {% endfor %}
 </div>
 
 <style>
@@ -171,8 +103,6 @@ Explore my professional journey and research contributions in robotics and mecha
         color: var(--secondary-color);
         margin-bottom: 20px;
         flex-grow: 1;
-        font-size: 0.9rem;
-        line-height: 1.5;
     }
 
     .card-tags {
@@ -188,5 +118,19 @@ Explore my professional journey and research contributions in robotics and mecha
         color: var(--secondary-color);
         padding: 4px 10px;
         border-radius: 50px;
+    }
+
+    .experience-link {
+        display: inline-block;
+        margin-top: 15px;
+        color: #000;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 0.9rem;
+        transition: color var(--transition-speed);
+    }
+
+    .experience-link:hover {
+        color: #555;
     }
 </style>
