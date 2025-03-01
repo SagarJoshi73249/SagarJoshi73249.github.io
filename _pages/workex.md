@@ -169,7 +169,7 @@ author_profile: true
     <div class="card">
         <div class="card-header">
             <div class="card-logo">
-                <img src="{{ site.baseurl }}/assets/images/rros-logo.png" alt="RROS Lab Logo" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
+                <img src="{{ site.baseurl }}/images/rros-logo.png" alt="RROS Lab Logo" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
             </div>
             <div class="card-title-area">
                 <h3 class="card-title">Research Assistant</h3>
@@ -209,7 +209,7 @@ author_profile: true
     <div class="card">
         <div class="card-header">
             <div class="card-logo">
-                <img src="{{ site.baseurl }}/assets/images/zhao-logo.png" alt="Zhao Research Group Logo" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
+                <img src="{{ site.baseurl }}/images/zhao-grp-logo.png" alt="Zhao Research Group Logo" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
             </div>
             <div class="card-title-area">
                 <h3 class="card-title">Research Assistant</h3>
@@ -247,7 +247,7 @@ author_profile: true
     <div class="card">
         <div class="card-header">
             <div class="card-logo">
-                <img src="{{ site.baseurl }}/assets/images/cosmos-logo.png" alt="Cosmos Cable Glands Logo" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
+                <img src="{{ site.baseurl }}/images/cosmos-logo.png" alt="Cosmos Cable Glands Logo" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.png'">
             </div>
             <div class="card-title-area">
                 <h3 class="card-title">Junior Engineer Intern</h3>
