@@ -1,4 +1,6 @@
 ---
+layout: archive
+author_profile: true
 title: "Smart Plant Health Monitor"
 description: "PLant monitoring system integrated with ChatGPT"
 tags: ["Engineering", "Mechatronics"]

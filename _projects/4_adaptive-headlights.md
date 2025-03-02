@@ -1,4 +1,6 @@
 ---
+layout: archive
+author_profile: true
 title: "Adaptive Headlight System Based on Audi Matrix LED"
 description: ""
 tags: ["Engineering", "Mechatronics"]

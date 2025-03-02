@@ -1,4 +1,6 @@
 ---
+layout: archive
+author_profile: true
 title: "Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations"
 description: ""
 tags: ["Motion Planning", "ROS2", "Robotics", "Perception"]
