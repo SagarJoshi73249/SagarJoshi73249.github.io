@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Dual-Arm Coordination for Battery Disassembly"
-permalink: /work-experience/rros-lab/
+permalink: 
 author_profile: true
 tags: [robotics, motion-planning, computer-vision, deep-learning, ABB, KUKA, Nvidia]
 ---

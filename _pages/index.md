@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-![Sagar Joshi](../images/profile.jpg)
 
 ## **About Me**
 
@@ -16,7 +15,7 @@ My journey has taken me from **Mumbai to Los Angeles**, where I’m currently pu
 Beyond engineering, I love working on **hands-on projects**—whether it’s building a smart system, prototyping a new mechanism, or optimizing an existing design. There’s something incredibly rewarding about turning an abstract idea into something tangible. I believe the best solutions emerge at the crossroads of **technical expertise, creativity, and curiosity**.
 
 ### **Currently Looking for Full-Time Opportunities**
-I am actively seeking **full-time positions in Robotics and Mechanical Engineering**, where I can apply my skills in **robotics, automation, and mechatronics** to real-world challenges. If you're looking for someone who brings a mix of **technical expertise, problem-solving skills, and a passion for innovation**, let’s connect!
+I am actively seeking **full-time positions in Robotics and Mechanical Engineering**, where I can apply my skills in **robotics, automation, and manufacturing** to real-world challenges. If you're looking for someone who brings a mix of **technical expertise, problem-solving skills, and a passion for innovation**, let’s connect!
 
 ## **Education**
 - **University of Southern California, Los Angeles**  
@@ -29,6 +28,6 @@ I am actively seeking **full-time positions in Robotics and Mechanical Engineeri
 - **Research Assistant, Zhao Research Group, USC**  
 - **Junior Engineer Intern, Cosmos Cable Glands**  
 
-I’m always open to **collaborations, new challenges, and interesting conversations**. Feel free to [connect with me](mailto:sjjoshi@usc.edu) or check out my work on [GitHub](https://github.com/SagarJoshi73249).
+I’m always open to **collaborations, new challenges, and interesting conversations**. Feel free to [connect with me](mailto:sjjoshi@usc.edu) or check out some of my work on [GitHub](https://github.com/SagarJoshi73249).
 
 ---

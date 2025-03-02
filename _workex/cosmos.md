@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Manufacturing Optimization for Cable Glands"
-permalink: /work-experience/cosmos-cable-glands/
+permalink: 
 author_profile: true
 tags: [manufacturing, gd&t, iso-testing, engineering-design]
 ---

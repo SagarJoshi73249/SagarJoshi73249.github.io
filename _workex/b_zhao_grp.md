@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Soft Stretchable EMG Sensors"
-permalink: /work-experience/zhao-research/
+permalink:
 author_profile: true
 tags: [biomechanics, soft-sensors, 3d-printing, emg, medical-devices]
 ---
