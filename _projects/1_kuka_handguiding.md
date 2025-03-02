@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "KUKA IIWA HandGuiding"
-description: "Implementation of HandGuiding for a Kuka IIWA robot"
+description: "Implementation of HandGuiding for a Kuka IIWA robot for LfD application"
 tags: ["Mechatronics", "Robotics"]
 image: "/images/kuka_iiwa_hg.png"
 permalink: /projects/handguiding/
