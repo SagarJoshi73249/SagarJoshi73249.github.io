@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "DJS Racing"
 description: "Senior Brakes Engineer for FSAE team"
 tags: ["Engineering", "Braking System"]

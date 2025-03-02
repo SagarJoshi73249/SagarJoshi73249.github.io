@@ -2,7 +2,7 @@
 title: "Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations"
 description: ""
 tags: ["Motion Planning", "ROS2", "Robotics", "Perception"]
-image: "/images/kuka.png"
+image: "/images/hardware_setup.png"
 permalink: /projects/RAL-Battery/
 ---
 
