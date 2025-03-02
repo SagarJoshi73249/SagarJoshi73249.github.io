@@ -8,8 +8,6 @@ image: "/images/hardware_setup.png"
 permalink: /projects/RAL-Battery/
 ---
 
-# **Robotic Battery Disassembly with Multi-Modal Learning**
-
 ## **Overview**
 With the increasing demand for sustainable battery recycling, robotic systems are being developed to automate disassembly tasks. This project explores **dual-arm coordination, real-time motion planning, and diffusion-based action prediction** for battery disassembly using **ROS2, Nvidia cuMotion, OMPL, and force-vision integration**. The system enables scalable and efficient **autonomous disassembly workflows**, ensuring robustness in handling **uncertain object geometries** and varying battery orientations.
 

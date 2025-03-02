@@ -8,8 +8,6 @@ image: "/images/adaptive-headlight.png"
 permalink: /projects/adaptive-headlights/
 ---
 
-# Adaptive Headlight System Inspired by Audi Matrix LED Technology
-
 ## Overview
 Driving at night presents challenges such as reduced visibility and glare from oncoming headlights. This project focuses on designing and simulating an **adaptive headlight system**, inspired by Audi’s Matrix LED technology, to enhance nighttime driving safety. The system dynamically adjusts **individual LED segments in real-time** to optimize road illumination while reducing glare for oncoming traffic.
 

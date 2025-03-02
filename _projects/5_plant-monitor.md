@@ -7,7 +7,6 @@ tags: ["Engineering", "Mechatronics"]
 image: "/images/plant_monitor.jpg"
 permalink: /projects/plant-monitor/
 ---
-# Smart Plant Health Monitoring System
 
 ## Overview
 With the increasing popularity of indoor gardening, maintaining plant health has become a challenge for plant owners. This project presents a **Smart Plant Health Monitoring System** that automates plant care through **real-time monitoring, AI-driven recommendations, and IoT-based control**. The system ensures that plants receive optimal care by integrating **sensors, automated watering mechanisms, and AI assistance via ChatGPT**.

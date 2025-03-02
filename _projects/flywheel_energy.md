@@ -7,7 +7,6 @@ tags: ["Engineering"]
 image: "/images/FESS.png"
 permalink: /projects/fess/
 ---
-# **Design and Development of Mechanical Battery Using Flywheel**
 
 ## **Overview**
 With the increasing demand for sustainable energy storage solutions, **mechanical flywheel batteries** offer a promising alternative for efficient energy storage and retrieval. This project explores the **design and optimization of a flywheel-based energy storage system**, integrating **magnetic levitation and structural optimizations** to enhance performance and efficiency.

@@ -7,8 +7,6 @@ image: "/images/kuka_iiwa_hg.png"
 permalink: /projects/handguiding/
 author_profile: true
 ---
-
-# **KUKA IIWA Hand Guiding Implementation & Configuration**
 ![KUKA IIWA Robot](/images/kuka_iiwa_hg.png)
 
 ## **Project Overview**

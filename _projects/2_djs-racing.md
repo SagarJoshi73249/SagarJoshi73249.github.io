@@ -8,7 +8,6 @@ image: "/images/djs-racing.png"
 permalink: /projects/djs-racing/
 ---
 
-# **Formula Student - Brakes Engineering & Cost Optimization**
 ![DJS Racing](/images/djs-racing_kari.png)
 ## **What is Formula Student?**
 Formula Student is a globally recognized **engineering design competition** where student teams design, build, test, and race a **formula-style race car**. The competition emphasizes technical innovation, cost-effectiveness, performance, and engineering rigor. Teams participate in dynamic and static events, including **acceleration, endurance, cost analysis, and design validation**.
