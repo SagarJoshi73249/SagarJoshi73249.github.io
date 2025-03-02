@@ -5,6 +5,7 @@ description: "Implementation of HandGuiding for a Kuka IIWA robot for LfD applic
 tags: ["Mechatronics", "Robotics"]
 image: "/images/kuka_iiwa_hg.png"
 permalink: /projects/handguiding/
+author_profile: true
 ---
 
 # **KUKA IIWA Hand Guiding Implementation & Configuration**

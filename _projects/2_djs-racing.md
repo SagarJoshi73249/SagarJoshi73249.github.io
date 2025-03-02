@@ -5,6 +5,7 @@ description: "Senior Brakes Engineer for FSAE team"
 tags: ["Engineering", "Braking System"]
 image: "/images/djs-racing.png"
 permalink: /projects/djs-racing/
+author_profile: true
 ---
 
 # **Formula Student - Brakes Engineering & Cost Optimization**
