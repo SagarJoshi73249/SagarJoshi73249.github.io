@@ -11,6 +11,8 @@ permalink: /projects/glass-handling/
 ## **Project Overview**
 This project presents an **advanced robotic automation system** for **precision glass handling** in **solar panel manufacturing**. The system integrates an **ABB IRB 4600-20/2.50 robot**, an **inverse kinematics (IK) solver**, and **vacuum-based gripping mechanisms** to efficiently manipulate **large glass sheets** (1.5m x 0.9m, 3mm thick) without causing surface defects.
 
+![ABB IRB 4600 Handling Glass](/images/glass-handling.png)
+
 ## **Key Features & Implementation**
 
 ### **Inverse Kinematics & Motion Planning Optimization**
@@ -22,6 +24,7 @@ This project presents an **advanced robotic automation system** for **precision 
 - Designed a **multi-point vacuum gripping mechanism** with **Schmalz STGG S 100×55 grippers**.
 - Integrated a **venturi generator-based suction system** for high-efficiency glass handling.
 - Engineered a **manifold vacuum distribution system** for **uniform grip force** across contact points.
+![Gripper Design](/images/Gripper.png)
 
 ### **ROS2-Based Robotic Control & Automation**
 - Developed **ROS2 control nodes** using **rclpy**, integrating **MoveIt! action clients** for precise motion execution.
@@ -37,9 +40,6 @@ This project presents an **advanced robotic automation system** for **precision 
 - Designed a **modular robotic framework**, adaptable for **different glass sizes and handling workflows**.
 - Implemented **automated fault detection** using **sensor-driven feedback loops**.
 - Optimized system for **seamless integration with conveyor-based manufacturing lines**.
-
-**ABB IRB 4600 Handling Glass**
-<iframe src="https://drive.google.com/file/d/1o3WqFR7WbmkxCQP3S9QyQu_fhkr1ss09/view?usp=sharing" width="800" height="450" allowfullscreen></iframe>
 
 ## **Key Takeaways**
  **High-Precision Manipulation**: Integrated **inverse kinematics and trajectory optimization** to **enhance accuracy**.  
