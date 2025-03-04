@@ -206,7 +206,6 @@ author_profile: true
                     <ul>
                         <li>Designed a multi-view vision system using Intel RealSense cameras and ROS2 data streams to capture 6D object poses for visuo-motor learning.</li>
                         <li>Implemented camera-based localization and object tracking for dynamic manipulation tasks.</li>
-                        <li>Developed grasp evaluation pipelines using GraspIt! and MoveIt!, allowing the system to rank stable grasp candidates for manipulation.</li>
                     </ul>
                 </li>
 
@@ -220,17 +219,15 @@ author_profile: true
 
                 <li><strong>Simulation & Reinforcement Learning for Grasping</strong>
                     <ul>
-                        <li>Developed a grasping simulation framework in Isaac Sim, integrating GraspIt! for grasp synthesis and evaluation.</li>
-                        <li>Implemented reinforcement learning (RL)-based grasping policies for KUKA iiwa using Stable Baselines3 (PPO, SAC) + Isaac Gym, optimizing performance for novel object geometries.</li>
-                        <li>Simulated contact-rich grasping interactions for diverse battery components, improving real-world generalization.</li>
+                        <li>Application of GraspIt! for grasp synthesis and evaluation, developed grasp evaluation pipelines using GraspIt! and MoveIt!, allowing the system to rank stable grasp candidates for manipulation.</li>
+                        <li>Implementing a reinforcement learning (RL)-based grasping policies for KUKA iiwa using Stable Baselines3 (PPO, SAC) + Isaac Gym, optimizing performance for novel object geometries.</li>
                     </ul>
                 </li>
 
                 <li><strong>Wire Disassembly Using Language-Guided Manipulation</strong>
                     <ul>
-                        <li>Extended the diffusion-based framework for language-conditioned robotic control, integrating natural language prompts to guide wire disassembly workflows.</li>
-                        <li>Developed a language-to-motion policy for interpreting textual commands into manipulation trajectories, enhancing adaptability in unstructured environments.</li>
-                        <li>Built a self-supervised dataset for text-conditioned robotic control, allowing flexible task execution based on semantic input descriptions.</li>
+                        <li>Extending the diffusion-based framework for language-conditioned robotic control, integrating natural language prompts to guide wire disassembly workflows.</li>
+                        <li>Developing a language-to-motion policy for interpreting textual commands into manipulation trajectories, enhancing adaptability in unstructured environments.</li>
                     </ul>
                 </li>
 
@@ -246,14 +243,6 @@ author_profile: true
                     <ul>
                         <li>Implemented cuMotion in Docker using NVIDIA Container Toolkit, enabling GPU-accelerated motion planning in ROS2 environments.</li>
                         <li>Containerized ROS2 nodes and robotic simulation environments using Docker, ensuring portable and scalable deployment.</li>
-                        <li>Automated ROS2 package testing with GitHub Actions + rostest, improving system stability and maintainability.</li>
-                    </ul>
-                </li>
-
-                <li><strong>Open-Source Contributions & Research Impact</strong>
-                    <ul>
-                        <li>Published internal research findings on motion planning, RL-based grasping, and multimodal robot learning.</li>
-                        <li>Engaged in ROS2 community discussions, contributing custom robot control and perception nodes to open-source repositories.</li>
                     </ul>
                 </li>
             </ul>
@@ -269,6 +258,7 @@ author_profile: true
                 <span class="card-tag">RealSense Cameras</span>
                 <span class="card-tag">tf2</span>
                 <span class="card-tag">Human-in-the-loop</span>
+                <span class="card-tag">Learning from Demonstration</span>
             </div>
         </div>
     </div>
