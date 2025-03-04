@@ -192,7 +192,6 @@ author_profile: true
                         <li>Implemented custom motion planners for synchronized manipulation, optimizing for precision and task efficiency.</li>
                     </ul>
                 </li>
-
                 <li><strong>ROS2-Based Motion Planning & Control</strong>
                     <ul>
                         <li>Developed Python-based ROS2 control scripts using rclpy, implementing MoveIt! action clients for robotic motion execution.</li>
@@ -201,14 +200,12 @@ author_profile: true
                         <li>Built custom ROS2 nodes for real-time motion planning and execution, integrating sensor feedback loops for adaptive control.</li>
                     </ul>
                 </li>
-
                 <li><strong>Multi-View Perception & Visuo-Motor Learning</strong>
                     <ul>
                         <li>Designed a multi-view vision system using Intel RealSense cameras and ROS2 data streams to capture 6D object poses for visuo-motor learning.</li>
                         <li>Implemented camera-based localization and object tracking for dynamic manipulation tasks.</li>
                     </ul>
                 </li>
-
                 <li><strong>Closed-Loop Diffusion-Based Action Prediction</strong>
                     <ul>
                         <li>Operationalized diffusion-model-based action prediction to handle uncertain object geometries, ensuring robust disassembly across varying battery positions and orientations.</li>
@@ -216,21 +213,18 @@ author_profile: true
                         <li>Developed a differentiable optimization framework for tuning grasping and manipulation strategies dynamically.</li>
                     </ul>
                 </li>
-
                 <li><strong>Simulation & Reinforcement Learning for Grasping</strong>
                     <ul>
                         <li>Application of GraspIt! for grasp synthesis and evaluation, developed grasp evaluation pipelines using GraspIt! and MoveIt!, allowing the system to rank stable grasp candidates for manipulation.</li>
                         <li>Implementing a reinforcement learning (RL)-based grasping policies for KUKA iiwa using Stable Baselines3 (PPO, SAC) + Isaac Gym, optimizing performance for novel object geometries.</li>
                     </ul>
                 </li>
-
                 <li><strong>Wire Disassembly Using Language-Guided Manipulation</strong>
                     <ul>
                         <li>Extending the diffusion-based framework for language-conditioned robotic control, integrating natural language prompts to guide wire disassembly workflows.</li>
                         <li>Developing a language-to-motion policy for interpreting textual commands into manipulation trajectories, enhancing adaptability in unstructured environments.</li>
                     </ul>
                 </li>
-
                 <li><strong>ROS2 Implementation & Middleware Development</strong>
                     <ul>
                         <li>Developed custom ROS2 nodes for real-time motion planning, vision processing, and force-torque feedback.</li>
@@ -238,7 +232,6 @@ author_profile: true
                         <li>Created modular ROS2 packages for trajectory optimization and multi-arm coordination, contributing to internal research repositories.</li>
                     </ul>
                 </li>
-
                 <li><strong>Dockerized ROS2 & CuMotion Deployment</strong>
                     <ul>
                         <li>Implemented cuMotion in Docker using NVIDIA Container Toolkit, enabling GPU-accelerated motion planning in ROS2 environments.</li>
@@ -246,7 +239,6 @@ author_profile: true
                     </ul>
                 </li>
             </ul>
-
             <div class="card-tags">
                 <span class="card-tag">ROS2</span>
                 <span class="card-tag">NVIDIA cuMotion</span>
@@ -262,7 +254,6 @@ author_profile: true
             </div>
         </div>
     </div>
-
     <!-- Zhao Research Group Experience -->
     <div class="card">
         <div class="card-header">
@@ -300,7 +291,6 @@ author_profile: true
             </div>
         </div>
     </div>
-
     <!-- Cosmos Cable Glands Experience -->
     <div class="card">
         <div class="card-header">
