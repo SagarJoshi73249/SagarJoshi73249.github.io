@@ -39,11 +39,7 @@ This project presents an **advanced robotic automation system** for **precision 
 - Optimized system for **seamless integration with conveyor-based manufacturing lines**.
 
 **ABB IRB 4600 Handling Glass**
-<video width="800" height="450" controls>
-   <source src="https://raw.githubusercontent.com/SagarJoshi73249/SagarJoshi73249.github.io/main/images/DEMO_compressed.mp4?raw=true" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
-
+<iframe src="https://drive.google.com/file/d/1o3WqFR7WbmkxCQP3S9QyQu_fhkr1ss09/view?usp=sharing" width="800" height="450" allowfullscreen></iframe>
 
 ## **Key Takeaways**
  **High-Precision Manipulation**: Integrated **inverse kinematics and trajectory optimization** to **enhance accuracy**.  
@@ -54,4 +50,4 @@ This project presents an **advanced robotic automation system** for **precision 
 
 ---
 
-This project highlights **advanced motion planning, robotic automation, and digital twin validation** for **high-precision glass handling**, contributing to **scalable industrial robotics solutions**. 🚀
+This project highlights **advanced motion planning, robotic automation, and digital twin validation** for **high-precision glass handling**, contributing to **scalable industrial robotics solutions**. 

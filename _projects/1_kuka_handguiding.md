@@ -12,9 +12,6 @@ author_profile: true
 ## **Project Overview**
 This project involves configuring and implementing hand guiding functionality for KUKA IIWA LBR robots, allowing for direct physical manipulation of the robot arm. The implementation enables intuitive programming and trajectory design through physical demonstration rather than traditional coding methods.
 
-## **Role: Robotics Engineer**
-**Duration:** [Time Period]
-
 ### **Key Responsibilities & Achievements**
 **Hand Guiding System Development:**
 - Engineered a complete hand guiding solution for KUKA IIWA LBR robots, enhancing programming and operational flexibility.
