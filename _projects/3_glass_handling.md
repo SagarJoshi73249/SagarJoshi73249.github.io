@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "Robotic System for Glass Handling in Solar Panel Manufacturing"
-description: "Automating precision glass handling using ABB IRB 4600 and inverse kinematics"
+description: "Developed an automated robotic system using ABB IRB 4600, an inverse kinematics solver, and a vacuum-based gripper for precision glass handling. Implemented ROS2 motion planning, collision-aware trajectory optimization, and sensor-driven force feedback for efficient manufacturing automation."
 tags: ["Industrial Robotics", "Motion Planning", "Webots", "Automation"]
 image: "/images/glass-handling.png"
 permalink: /projects/glass-handling/

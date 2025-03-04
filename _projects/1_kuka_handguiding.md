@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "KUKA IIWA HandGuiding"
-description: "Implementation of HandGuiding for a Kuka IIWA robot for LfD application"
+description: "Engineered intuitive hand guiding for the KUKA IIWA LBR, integrating force-sensitive control, a microcontroller-based relay system, and python-based activation. Enabled real-time trajectory generation for learning-from-demonstration applications."
 tags: ["Mechatronics", "Robotics"]
 image: "/images/kuka_iiwa_hg.png"
 permalink: /projects/handguiding/

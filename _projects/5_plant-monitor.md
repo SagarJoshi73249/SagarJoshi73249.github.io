@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "Smart Plant Health Monitor"
-description: "Plant monitoring system integrated with ChatGPT"
+description: "Designed an IoT-based plant monitoring system integrating sensor networks for soil moisture, temperature, and humidity tracking. Developed real-time dashboards for remote monitoring, integrating ChatGPT to predict optimal watering schedules and plant health trends using sensor feedback."
 tags: ["Engineering", "Mechatronics"]
 image: "/images/plant_monitor.jpg"
 permalink: /projects/plant-monitor/

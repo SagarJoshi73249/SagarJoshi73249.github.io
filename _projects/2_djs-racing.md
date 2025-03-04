@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "DJS Racing"
-description: "Senior Brakes Engineer for FSAE team"
+description: "Led the braking system design for a Formula Student race car, achieving 22% weight reduction and 27% cost savings. Developed custom calipers, rotors, and pedal assemblies, and researched driverless braking, regenerative braking, and rotor thermal simulations."
 tags: ["Engineering", "Braking System"]
 image: "/images/djs-racing.png"
 permalink: /projects/djs-racing/

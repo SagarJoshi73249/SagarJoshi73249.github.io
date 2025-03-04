@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations"
-description: ""
+description: "Designed a dual-arm robotic manipulation system using ABB IRB120 & KUKA iiwa 14, integrating diffusion-model-based action prediction and force-torque feedback loops. Leveraged ROS2 multi-view perception and hand-eye calibration for robust battery disassembly workflows."
 tags: ["Motion Planning", "ROS2", "Robotics", "Perception"]
 image: "/images/hardware_setup.png"
 permalink: /projects/RAL-Battery/

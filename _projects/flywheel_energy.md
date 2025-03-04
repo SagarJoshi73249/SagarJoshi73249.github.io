@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "Design and Development of a Mechanical Flywheel Battery"
-description: "Developed a Magnetically Levitating Flywheel Energy Storage System to convert Mechanical Energy to Electrical Energy"
+description: "Engineered a high-speed, magnetically levitating flywheel energy storage system, optimizing rotor design for minimal energy loss. Implemented finite element analysis (FEA) simulations to improve mechanical stability and thermal efficiency, ensuring longer energy retention for sustainable power applications."
 tags: ["Engineering"]
 image: "/images/FESS.png"
 permalink: /projects/fess/

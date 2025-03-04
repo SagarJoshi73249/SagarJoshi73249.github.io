@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "Adaptive Headlight System Based on Audi Matrix LED"
-description: ""
+description: "Developed an adaptive headlight system that dynamically adjusts beam intensity and direction based on vehicle speed and position. Implemented computer vision algorithms to detect oncoming traffic and prevent glare, enhancing night-time driving safety."
 tags: ["Engineering", "Mechatronics"]
 image: "/images/adaptive-headlight.png"
 permalink: /projects/adaptive-headlights/
