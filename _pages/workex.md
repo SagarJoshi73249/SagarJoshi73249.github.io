@@ -185,11 +185,79 @@ author_profile: true
                 <p>Working on advanced dual-arm robotic coordination for complex manipulation tasks, with a focus on battery disassembly workflows. The research involves integrating state-of-the-art motion planning algorithms with multi-view perception systems to enable robust automation of challenging disassembly operations.</p>
             </div>
             <ul class="achievement-list">
-                <li>Engineered a coordination system for dual-arm manipulation using ABB IRB120 and KUKA iiwa 14 robots, integrating Nvidia cuMotion library and OMPL for high-efficiency motion planning in battery disassembly workflows.</li>
-                <li>Incorporated multi-view perception using ROS2 and RealSense camera data streams to capture 6D poses for visuo-motor learning, employing hand-guiding for more intuitive human-in-the-loop data generation.</li>
-                <li>Operationalized diffusion-model-based action prediction to handle uncertain object geometry, ensuring robust closed-loop disassembly across varying battery positions and orientations.</li>
-                <li>Developed a real-time deployment workflow with data-driven trajectories, leveraging a differentiable paradigm for scalable autonomy and large-model testing in real-world robotic systems.</li>
+                <li><strong>Dual-Arm Robotic Coordination for Battery Disassembly</strong>
+                    <ul>
+                        <li>Engineered a dual-arm motion planning system for ABB IRB120 and KUKA iiwa 14, integrating Nvidia cuMotion library and OMPL for high-efficiency motion planning.</li>
+                        <li>Developed a MoveIt! package for coordinated dual-arm trajectory planning, handling collision-aware and constraint-based manipulations.</li>
+                        <li>Implemented custom motion planners for synchronized manipulation, optimizing for precision and task efficiency.</li>
+                    </ul>
+                </li>
+
+                <li><strong>ROS2-Based Motion Planning & Control</strong>
+                    <ul>
+                        <li>Developed Python-based ROS2 control scripts using rclpy, implementing MoveIt! action clients for robotic motion execution.</li>
+                        <li>Integrated ROS2 action servers and clients to coordinate task-level execution for multi-arm manipulation.</li>
+                        <li>Implemented hand-eye calibration packages, enabling camera-to-end-effector alignment for enhanced perception-based grasping.</li>
+                        <li>Built custom ROS2 nodes for real-time motion planning and execution, integrating sensor feedback loops for adaptive control.</li>
+                    </ul>
+                </li>
+
+                <li><strong>Multi-View Perception & Visuo-Motor Learning</strong>
+                    <ul>
+                        <li>Designed a multi-view vision system using Intel RealSense cameras and ROS2 data streams to capture 6D object poses for visuo-motor learning.</li>
+                        <li>Implemented camera-based localization and object tracking for dynamic manipulation tasks.</li>
+                        <li>Developed grasp evaluation pipelines using GraspIt! and MoveIt!, allowing the system to rank stable grasp candidates for manipulation.</li>
+                    </ul>
+                </li>
+
+                <li><strong>Closed-Loop Diffusion-Based Action Prediction</strong>
+                    <ul>
+                        <li>Operationalized diffusion-model-based action prediction to handle uncertain object geometries, ensuring robust disassembly across varying battery positions and orientations.</li>
+                        <li>Integrated force-torque feedback loops for real-time corrective actions during manipulation.</li>
+                        <li>Developed a differentiable optimization framework for tuning grasping and manipulation strategies dynamically.</li>
+                    </ul>
+                </li>
+
+                <li><strong>Simulation & Reinforcement Learning for Grasping</strong>
+                    <ul>
+                        <li>Developed a grasping simulation framework in Isaac Sim, integrating GraspIt! for grasp synthesis and evaluation.</li>
+                        <li>Implemented reinforcement learning (RL)-based grasping policies for KUKA iiwa using Stable Baselines3 (PPO, SAC) + Isaac Gym, optimizing performance for novel object geometries.</li>
+                        <li>Simulated contact-rich grasping interactions for diverse battery components, improving real-world generalization.</li>
+                    </ul>
+                </li>
+
+                <li><strong>Wire Disassembly Using Language-Guided Manipulation</strong>
+                    <ul>
+                        <li>Extended the diffusion-based framework for language-conditioned robotic control, integrating natural language prompts to guide wire disassembly workflows.</li>
+                        <li>Developed a language-to-motion policy for interpreting textual commands into manipulation trajectories, enhancing adaptability in unstructured environments.</li>
+                        <li>Built a self-supervised dataset for text-conditioned robotic control, allowing flexible task execution based on semantic input descriptions.</li>
+                    </ul>
+                </li>
+
+                <li><strong>ROS2 Implementation & Middleware Development</strong>
+                    <ul>
+                        <li>Developed custom ROS2 nodes for real-time motion planning, vision processing, and force-torque feedback.</li>
+                        <li>Optimized ROS2 middleware communications using rclpy, ensuring low-latency data exchange and real-time execution.</li>
+                        <li>Created modular ROS2 packages for trajectory optimization and multi-arm coordination, contributing to internal research repositories.</li>
+                    </ul>
+                </li>
+
+                <li><strong>Dockerized ROS2 & CuMotion Deployment</strong>
+                    <ul>
+                        <li>Implemented cuMotion in Docker using NVIDIA Container Toolkit, enabling GPU-accelerated motion planning in ROS2 environments.</li>
+                        <li>Containerized ROS2 nodes and robotic simulation environments using Docker, ensuring portable and scalable deployment.</li>
+                        <li>Automated ROS2 package testing with GitHub Actions + rostest, improving system stability and maintainability.</li>
+                    </ul>
+                </li>
+
+                <li><strong>Open-Source Contributions & Research Impact</strong>
+                    <ul>
+                        <li>Published internal research findings on motion planning, RL-based grasping, and multimodal robot learning.</li>
+                        <li>Engaged in ROS2 community discussions, contributing custom robot control and perception nodes to open-source repositories.</li>
+                    </ul>
+                </li>
             </ul>
+
             <div class="card-tags">
                 <span class="card-tag">ROS2</span>
                 <span class="card-tag">NVIDIA cuMotion</span>
