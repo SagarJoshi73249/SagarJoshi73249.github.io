@@ -64,4 +64,4 @@ With the increasing demand for sustainable battery recycling, robotic systems ar
  **Robust Data Collection & Training:** Employed **human-in-the-loop kinesthetic teaching** and **force-enhanced demonstrations** to maximize policy learning effectiveness.  
 
 ---
-This project showcases an advanced **AI-driven robotic disassembly framework**, combining **ROS2, motion planning, and multi-modal learning** for high-performance automation. 🚀
+This project showcases an advanced **AI-driven robotic disassembly framework**, combining **ROS2, motion planning, and multi-modal learning** for high-performance automation. For more information about the project, check out our [website!](https://rros-lab.github.io/diffusion-with-force.github.io/)
