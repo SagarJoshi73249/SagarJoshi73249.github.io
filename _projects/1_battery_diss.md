@@ -57,11 +57,11 @@ With the increasing demand for sustainable battery recycling, robotic systems ar
 ![System Architecture](/images/overview_system1.png)
 
 ## **Key Achievements**
-✅ **High-Precision Battery Disassembly:** Integrated force-aware motion planning to handle varying battery positions and orientations.  
-✅ **Multi-Sensory AI for Robust Execution:** Combined **vision, force, and learned representations** for stable real-world deployment.  
-✅ **Scalable & Generalizable System:** Enabled **zero-shot adaptation** to unseen battery geometries and object layouts.  
-✅ **Real-Time Deployment:** Leveraged **ROS2 and Nvidia cuMotion** for fast, collision-free, and adaptive robotic motion.  
-✅ **Robust Data Collection & Training:** Employed **human-in-the-loop kinesthetic teaching** and **force-enhanced demonstrations** to maximize policy learning effectiveness.  
+ **High-Precision Battery Disassembly:** Integrated force-aware motion planning to handle varying battery positions and orientations.  
+ **Multi-Sensory AI for Robust Execution:** Combined **vision, force, and learned representations** for stable real-world deployment.  
+ **Scalable & Generalizable System:** Enabled **zero-shot adaptation** to unseen battery geometries and object layouts.  
+ **Real-Time Deployment:** Leveraged **ROS2 and Nvidia cuMotion** for fast, collision-free, and adaptive robotic motion.  
+ **Robust Data Collection & Training:** Employed **human-in-the-loop kinesthetic teaching** and **force-enhanced demonstrations** to maximize policy learning effectiveness.  
 
 ---
 This project showcases an advanced **AI-driven robotic disassembly framework**, combining **ROS2, motion planning, and multi-modal learning** for high-performance automation. 🚀

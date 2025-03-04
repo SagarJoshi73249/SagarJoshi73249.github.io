@@ -23,8 +23,8 @@ The robotic setup consists of:
 - **KUKA iiwa 14**: A collaborative lightweight manipulator, enabling **safe and adaptive interactions**.
 
 To **synchronize** both arms efficiently, I implemented:
-✅ **Nvidia cuMotion library**: A CUDA-accelerated **motion planning library** that allows real-time trajectory optimization.  
-✅ **OMPL (Open Motion Planning Library)**: Used for **path planning**, ensuring optimal movement in **cluttered environments**.  
+ **Nvidia cuMotion library**: A CUDA-accelerated **motion planning library** that allows real-time trajectory optimization.  
+ **OMPL (Open Motion Planning Library)**: Used for **path planning**, ensuring optimal movement in **cluttered environments**.  
 
 By leveraging these tools, the robotic arms can execute **coordinated motions**, achieving **safe and efficient battery disassembly**.
 

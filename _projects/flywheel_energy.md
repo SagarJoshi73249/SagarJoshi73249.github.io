@@ -50,10 +50,10 @@ With the increasing demand for sustainable energy storage solutions, **mechanica
 ![Flywheel CAD Design](/images/FESS_cad.png)
 
 ## **Key Achievements**
-✅ **Increased Energy Efficiency:** Reduced mechanical losses via **magnetic levitation**.  
-✅ **Optimized Energy Density:** Laval Disc design improved **energy-to-mass ratio**.  
-✅ **Enhanced Power Output:** Achieved high-voltage generation using **electromagnetic induction**.  
-✅ **Scalable & Modular Design:** Adaptable for **grid storage, EV applications, and industrial use**.  
+ **Increased Energy Efficiency:** Reduced mechanical losses via **magnetic levitation**.  
+ **Optimized Energy Density:** Laval Disc design improved **energy-to-mass ratio**.  
+ **Enhanced Power Output:** Achieved high-voltage generation using **electromagnetic induction**.  
+ **Scalable & Modular Design:** Adaptable for **grid storage, EV applications, and industrial use**.  
 
 ---
 This project demonstrates an **innovative and sustainable approach** to energy storage, contributing to the future of **high-efficiency, renewable energy solutions**. 🚀

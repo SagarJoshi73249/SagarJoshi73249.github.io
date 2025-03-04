@@ -17,9 +17,9 @@ During my internship at Cosmos Cable Glands, I worked on the **design, manufactu
 
 ### **Product Development & Manufacturing**
 My responsibilities included:
-✅ **Designing cable gland prototypes** using CAD tools.  
-✅ Ensuring **dimensional accuracy** through **GD&T principles**.  
-✅ Collaborating with the manufacturing team to **optimize the production process**.
+ **Designing cable gland prototypes** using CAD tools.  
+ Ensuring **dimensional accuracy** through **GD&T principles**.  
+ Collaborating with the manufacturing team to **optimize the production process**.
 
 🖼️ **Cable Gland CAD Model:**  
 ![Cable Gland Design](/assets/images/work_experience/cable_gland_cad.jpg)

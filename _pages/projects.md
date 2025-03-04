@@ -15,11 +15,6 @@ Explore my research and development work across various domains.
         <div class="card-content">
             <h3 class="card-title">{{ project.title }}</h3>
             <p class="card-description">{{ project.description }}</p>
-            <div class="card-tags">
-                {% for tag in project.tags %}
-                <span class="card-tag">{{ tag }}</span>
-                {% endfor %}
-            </div>
             <a href="{{ project.url | relative_url }}" class="project-link">View details →</a>
         </div>
     </div>
