@@ -38,11 +38,12 @@ This project presents an **advanced robotic automation system** for **precision 
 - Implemented **automated fault detection** using **sensor-driven feedback loops**.
 - Optimized system for **seamless integration with conveyor-based manufacturing lines**.
 
-![ABB IRB 4600 Handling Glass]
+**ABB IRB 4600 Handling Glass**
 <video width="800" height="450" controls>
-   <source src="https://raw.githubusercontent.com/SagarJoshi73249/SagarJoshi73249.github.io/main/images/DEMO_compressed.mp4" type="video/mp4">
+   <source src="https://raw.githubusercontent.com/SagarJoshi73249/SagarJoshi73249.github.io/main/images/DEMO_compressed.mp4?raw=true" type="video/mp4">
    Your browser does not support the video tag.
 </video>
+
 
 ## **Key Takeaways**
  **High-Precision Manipulation**: Integrated **inverse kinematics and trajectory optimization** to **enhance accuracy**.  
