@@ -17,6 +17,8 @@ I am actively seeking **full-time positions in Robotics and Mechanical Engineeri
 
 ## **Publications**
 - Kang, Jeon Ho, **Joshi, Sagar**, Huang, Ruopeng, & Gupta, Satyandra K. (2024). “_Robotic Compliant Object Prying Using Diffusion Policy Guided by Vision and Force Observations._” IEEE Robotics and Automation Letters
+- Kang, Jeon Ho, **Joshi, Sagar**, Dhanaraj, Neel, & Gupta, Satyandra K. (2025). “_Task-Context-Aware Diffusion Policy with Language Guidance for
+Multi-task Disassembly._” IEEE Robotics and Automation Letters
 - **Joshi, Sagar Jatin**, Mamaniya, Smit, & Shah, Ruchit (2022). “_Integration of Intelligent Manufacturing in Smart Factories as part of Industry 4.0-A Review._” In 2022 Sardar Patel International Conference on Industry 4.0-Nascent Technologies and Sustainability for ’Make in India’ Initiative. IEEE.
 
 ## **Education**
