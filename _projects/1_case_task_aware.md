@@ -55,4 +55,4 @@ This project addresses the complexity of robotic disassembly in **high-mix manuf
 ---
 
 This research showcases the potential of **language-conditioned multi-modal diffusion policies** in enabling **flexible and intelligent robotic disassembly** across complex real-world scenarios.  
- [Project Website](https://rros-lab.github.io/diffusion-with-force.github.io/)
+ [Project Website](https://rros-lab.github.io/task-aware-diffusion/)
