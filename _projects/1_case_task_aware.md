@@ -11,7 +11,7 @@ permalink: /projects/CASE-task-aware/
 ## **Overview**
 This project addresses the complexity of robotic disassembly in **high-mix manufacturing settings** by introducing a **task-context-aware diffusion policy** that leverages **natural language commands**, **vision**, and **force feedback**. We propose a hierarchical learning architecture capable of **interpreting task goals from language**, dynamically adapting policies for multiple disassembly actions using a **single multi-task diffusion model**.
 
-![Task Context Illustration](/images/language-guided.png)
+![Task Context Illustration](/images/language_guided.png)
 
 ## **Key Features & Innovations**
 
@@ -39,7 +39,7 @@ This project addresses the complexity of robotic disassembly in **high-mix manuf
 - Demonstrated **zero-shot generalization** to novel connector geometries and configurations.
 - Achieved **95% task success rate** across diverse connector types with a **57% reduction in task execution time**.
 
-![Framework Overview](/images/overview_system1.png)
+![Framework Overview](/images/overview_system.png)
 
 ## **Results**
 - Outperformed baseline diffusion models trained without language or force by **57%** in success rate.
