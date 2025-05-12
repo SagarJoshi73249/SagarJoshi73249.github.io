@@ -4,7 +4,7 @@ author_profile: true
 title: "Task-Aware Diffusion Policy with Language Guidance for Multi-task Disassembly"
 description: "Developed a hierarchical diffusion policy architecture for multi-task robotic disassembly using KUKA iiwa, integrating vision, force, and language modalities for real-time manipulation."
 tags: ["Diffusion Models", "Multi-task Learning", "Language-Guided Robotics", "ROS2"]
-image: "/images/language-guided.png"
+image: "/images/language_guided.png"
 permalink: /projects/CASE-task-aware/
 ---
 
